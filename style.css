@@ -42,7 +42,7 @@ body {
   font-family: "Poppins", sans-serif;
   font-size: 32;
   position: absolute;
-  padding-right: 38rem;
+  padding-right: 36rem;
   padding-bottom: 7.5rem;
   z-index: 5;
   color: #ffffff;
@@ -50,14 +50,16 @@ body {
 
 .button {
   position: absolute;
-  padding-right: 71rem;
+  padding-right: 70rem;
   padding-top: 7.5rem;
+  z-index: 5;
 }
 
 .banner p {
   font-family: "Poppins", sans-serif;
   position: absolute;
   padding-right: 50rem;
+  padding-left: 1.5rem;
   /* padding-top: 7.5rem; */
   z-index: 5;
   color: #ffffff;
